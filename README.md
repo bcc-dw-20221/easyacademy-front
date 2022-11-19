@@ -1,1 +1,1 @@
-# easyacademy-front
+# Telas Mockadas
