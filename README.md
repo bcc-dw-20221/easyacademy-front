@@ -1,0 +1,1 @@
+# easyacademy-front
